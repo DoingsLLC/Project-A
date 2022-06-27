@@ -1,1 +1,1 @@
-This is a file from testforconflict branch
+This is a file from testforconflict branch and for shell script class 
