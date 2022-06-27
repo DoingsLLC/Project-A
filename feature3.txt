@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-This file is from develop branch
-=======
-This is a file from testforconflict branch
->>>>>>> testforconflict
+This is a file from the develop branch
