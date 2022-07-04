@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+This is a file from the develop branch class for shell 
+=======
+This is a file from the testforconconflict class
+>>>>>>> testforconflict
